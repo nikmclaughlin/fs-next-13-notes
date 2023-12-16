@@ -22,7 +22,7 @@ export default function CreateNote() {
     setTitle('')
     setContent('')
 
-    router.refresh()    
+    router.refresh()
   }
 
   return (
