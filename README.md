@@ -5,9 +5,14 @@
 - [Fireship](https://www.youtube.com/watch?v=__mSgDEOyv8)
 
 # TODO
+Completed on the couch in <2 hours. With more time I'd probably want to:
 - [x] Update Readme
 - [ ] Update colors
 - [ ] Improve date display
 - [ ] Replace ids with titles?
-- [ ] Full Note CRUD
+- [ ] Fix types
+- [ ] Full Note CRUD (use PB SDK?)
+- [ ] CreateNote styling
+- [ ] Better loading and error states
+- [ ] Probably Tailwind
 - [ ] Add auth?
